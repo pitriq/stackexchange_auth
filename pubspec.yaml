@@ -1,8 +1,8 @@
 name: stackexchange_auth
-description: A new Flutter package project.
+description: Authentication for Stack Exchange in Flutter, using OAuth2.0 and V2.2 API.
 version: 0.0.1
-author:
-homepage:
+author: Fran Pitriqueo <franpitri@gmail.com>
+homepage: https://github.com/FranPitri/stackexchange_auth
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
